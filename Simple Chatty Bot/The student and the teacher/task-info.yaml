@@ -177,5 +177,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/95/stages/527/implement
-status: Unchecked
+status: Failed
+feedback:
+  message: Failed to launch checking
+  time: Mon, 13 Jul 2020 22:07:11 UTC
 record: -1
